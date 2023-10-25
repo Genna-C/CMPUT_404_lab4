@@ -12,7 +12,6 @@ django-heroku==0.3.1
 django-on-heroku==1.1.2
 filelock==3.12.4
 gunicorn==21.2.0
-gyp
 httplib2==0.20.2
 idna==3.4
 importlib-metadata==4.6.4
