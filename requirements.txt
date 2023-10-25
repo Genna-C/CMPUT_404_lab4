@@ -2,7 +2,7 @@ asgiref==3.7.2
 blinker==1.4
 certifi==2023.7.22
 charset-normalizer==3.2.0
-command-not-found
+command-not-found==0.3
 cryptography==3.4.8
 dbus-python==1.2.18
 distlib==0.3.7
@@ -10,6 +10,7 @@ distro==1.7.0
 distro-info==1.1+ubuntu0.1
 dj-database-url==2.1.0
 Django==4.2.6
+django-heroku==0.3.1
 django-on-heroku==1.1.2
 filelock==3.12.4
 gunicorn==21.2.0
@@ -30,11 +31,13 @@ netifaces==0.11.0
 oauthlib==3.2.0
 packaging==23.2
 platformdirs==3.10.0
+psycopg2==2.9.9
 psycopg2-binary==2.9.9
 PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==2.4.7
 python-apt==2.4.0+ubuntu2
+python-decouple==3.8
 PyYAML==5.4.1
 requests==2.31.0
 SecretStorage==3.3.1
